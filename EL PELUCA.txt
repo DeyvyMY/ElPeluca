@@ -14,3 +14,6 @@ haha
 
 ?????????????? como
 >>>>>>> 159b53fcfab6128c83289756c48031c87cdb2745
+
+Que es teletype
+atom://teletype/portal/7c1426bf-2c70-42c3-a939-6ae9e89e53f1
