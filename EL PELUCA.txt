@@ -1,4 +1,16 @@
+<<<<<<< HEAD
 Te caguee.
 haha
 que fue mano
 quien eres tu papu
+=======
+<<<<<<< HEAD
+
+hola dfs
+=======
+Te caguee.
+haha
+>>>>>>> 48a8845dedf1de7097abb8f4513f157001cf9d42
+
+?????????????? como
+>>>>>>> 159b53fcfab6128c83289756c48031c87cdb2745
