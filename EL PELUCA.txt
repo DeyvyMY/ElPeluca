@@ -1,4 +1,13 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+Te caguee.
+haha
+que fue mano
+quien eres tu papu
+=======
+<<<<<<< HEAD
+>>>>>>> 7fbe75246333b3f0d21b30976428acfa4a5225b8
 
 hola dfs
 =======
@@ -6,4 +15,15 @@ Te caguee.
 haha
 >>>>>>> 48a8845dedf1de7097abb8f4513f157001cf9d42
 
+<<<<<<< HEAD
 ?????????????? como
+=======
+?????????????? como
+>>>>>>> 159b53fcfab6128c83289756c48031c87cdb2745
+
+Que es teletype
+atom://teletype/portal/7c1426bf-2c70-42c3-a939-6ae9e89e53f1
+
+https://www.youtube.com/watch?v=C_JufDsP2Ng
+ asdasdsadasdasdasdsadsadas
+>>>>>>> 7fbe75246333b3f0d21b30976428acfa4a5225b8
