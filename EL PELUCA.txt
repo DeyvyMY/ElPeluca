@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 
 hola dfs
+=======
+Te caguee.
+haha
+>>>>>>> 48a8845dedf1de7097abb8f4513f157001cf9d42
+
+?????????????? como
